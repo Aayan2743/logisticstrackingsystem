@@ -1,4 +1,4 @@
 <?php
 
-  echo " This is handler file";
+  echo " This is handler file availbale";
 ?>
